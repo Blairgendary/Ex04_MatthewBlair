@@ -1,0 +1,18 @@
+// No matter what I did here I could not get the body to get rid of its margin // 
+
+* {
+box-sizing:border-box;
+margin: 0 auto;
+}
+
+#myCanvas { 
+position: absolute;
+display: flex;
+}
+
+#title { 
+position: absolute;
+display: flex;
+text-align: center;
+width: 100%;
+}
